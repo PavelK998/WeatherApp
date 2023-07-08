@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="choose_city">Choose city</string>
+    <string name="wind_speed">m/s</string>
+    <string name="pressure">hPa</string>
+    <string name="details">Details</string>
+    <string name="forecast">Forecast</string>
+    <string name="length">Km</string>
+    <string name="visibility">Visibility</string>
+    <string name="language">en</string>
+    <string name="feels_like">feels like</string>
+    <string name="try_again">Try again</string>
+    <string name="connectivity">Seems like you are not connected to the Internet. Please try again later</string>
+    <string name="type_something">Type something</string>
+    <string name="something_wrong">Oh, something went wrong</string>
+    <string name="wrong_city">We could not find results of that city name</string>
+    <string name="standard_displaying_city">Saint Petersburg</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="choose_city">Выберите город</string>
+    <string name="wind_speed">м/с</string>
+    <string name="pressure">гПа</string>
+    <string name="details">Подробнее</string>
+    <string name="forecast">Прогноз на 5 дней</string>
+    <string name="length">Км</string>
+    <string name="visibility">Видимость</string>
+    <string name="language">ru</string>
+    <string name="feels_like">ощущается как</string>
+    <string name="try_again">Попробовать еще раз</string>
+    <string name="connectivity">Кажется вы не подкючены к Интернету, пожалуйста попробуйте позже</string>
+    <string name="type_something">Введите что-нибудь</string>
+    <string name="something_wrong">Что-то пошло не так</string>
+    <string name="wrong_city">Мы не смогли найти город с таким названием</string>
+    <string name="standard_displaying_city">Санкт Петербург</string>
+
+
+
+
+</resources>
